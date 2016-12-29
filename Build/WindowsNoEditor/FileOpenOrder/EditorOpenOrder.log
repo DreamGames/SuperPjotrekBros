@@ -440,342 +440,454 @@
 "../../../Engine/Content/EngineResources/AICON-Red.uasset" 440
 "../../../Engine/Content/EngineResources/AICON-Green.uasset" 441
 "../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 442
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 443
-"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 444
-"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 445
-"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 446
-"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 447
-"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 448
-"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 449
-"../../../Engine/Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 450
-"C:/Users/Spidior/AppData/Local/UnrealEngine/4.10/Saved/Config/Windows/SourceControlSettings.ini" 451
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Intermediate/Config/CoalescedSourceConfigs/SourceControlSettings.ini" 452
-"D:/Projekty/Unreal Engine/SuperPjotrekBros/Saved/Config/Windows/SourceControlSettings.ini" 453
-"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_CapsuleMesh.uasset" 454
-"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_TorusMesh.uasset" 455
-"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_HandColor.uasset" 456
-"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_PassthroughMaterial.uasset" 457
-"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_SampleDistortion.uasset" 458
-"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_TestTexture.uasset" 459
-"../../../Engine/Content/BasicShapes/Cube.uasset" 460
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 461
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 462
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 463
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 464
-"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 465
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 466
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 467
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 468
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 469
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 470
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 471
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 472
-"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 473
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Intermediate/CachedAssetRegistry.bin" 474
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/las/level1.umap" 475
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Movies/DreamGamesIntro.uasset" 476
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Movies/UE4_Logo.uasset" 477
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/Kappa.uasset" 478
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/Kappa_Sprite.uasset" 479
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/PogChamp.uasset" 480
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/PogChamp_Sprite.uasset" 481
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Saved/Autosaves/Game/Maps/las/UEDPClevel1.umap" 482
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Saved/Autosaves/Game/Maps/las/UEDPClevel5Boss.umap" 483
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Saved/Autosaves/Game/Maps/miasto/UEDPClevel7.umap" 484
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Saved/Autosaves/Temp/UEDPCUntitled_0.umap" 485
-"../../../Engine/Config/HTML5/HTML5Engine.ini" 486
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 487
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Player/PjotrekGameMode.uasset" 488
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Player/PjotrekCharakter.uasset" 489
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 490
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Flipbooks/PjotrekFlipbook.uasset" 491
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/PjotrekSprite.uasset" 492
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/Pjotrek.uasset" 493
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 494
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 495
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 496
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 497
-"../../../Engine/Content/EditorMaterials/PhAT_JointLimitMaterial.uasset" 498
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 499
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 500
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 501
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 502
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 503
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 504
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 505
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 506
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 507
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 508
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 509
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 510
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 511
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 512
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 513
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 514
-"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 515
-"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 516
-"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 517
-"../../../Engine/Content/EngineMeshes/Cube.uasset" 518
-"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 519
-"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 520
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 521
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 522
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 523
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 524
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 525
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 526
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 527
-"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 528
-"../../../Engine/Content/Tutorial/SubEditors/DestructibleMeshEditorTutorial.uasset" 529
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Tutorial_DM.uasset" 530
-"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 531
-"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 532
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 533
-"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 534
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 535
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 536
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 537
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 538
-"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkThrough.uasset" 539
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset" 540
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Idle.uasset" 541
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset" 542
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Walk_Fwd.uasset" 543
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset" 544
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset" 545
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_PhysicsAsset.uasset" 546
-"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 547
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset" 548
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset" 549
-"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 550
-"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 551
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 552
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 553
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 554
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 555
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 556
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 557
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 558
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 559
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 560
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/RunFrames/RunCycle_10.uasset" 561
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Textures/2DCharacter_RunAnimAtlas.uasset" 562
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/RunFrames/RunCycle_1.uasset" 563
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle8.uasset" 564
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Textures/2DCharacter_IdleAnimAtlas.uasset" 565
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle7.uasset" 566
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle6.uasset" 567
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle5.uasset" 568
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle4.uasset" 569
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle3.uasset" 570
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle2.uasset" 571
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle1.uasset" 572
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/RunningAnimation.uasset" 573
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Sprites/RunFrames/RunCycle_11.uasset" 574
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Sprites/RunFrames/RunCycle_12.uasset" 575
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Sprites/RunFrames/RunCycle_13.uasset" 576
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Sprites/RunFrames/RunCycle_14.uasset" 577
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Sprites/RunFrames/RunCycle_15.uasset" 578
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Sprites/RunFrames/RunCycle_16.uasset" 579
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Sprites/RunFrames/RunCycle_2.uasset" 580
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Sprites/RunFrames/RunCycle_3.uasset" 581
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Sprites/RunFrames/RunCycle_4.uasset" 582
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Sprites/RunFrames/RunCycle_5.uasset" 583
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Sprites/RunFrames/RunCycle_6.uasset" 584
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Sprites/RunFrames/RunCycle_7.uasset" 585
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Sprites/RunFrames/RunCycle_8.uasset" 586
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Sprites/RunFrames/RunCycle_9.uasset" 587
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/PrototypingSprite.uasset" 588
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Materials/PrototypingSpriteMaterial.uasset" 589
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Textures/2DBackgroundTile.uasset" 590
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/Ledge.uasset" 591
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Textures/2DBackgroundBlockAtlas.uasset" 592
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/IdleAnimation.uasset" 593
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/Background_Sprite.uasset" 594
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Textures/2DBackground.uasset" 595
-"C:/Users/Spidior/AppData/Local/Temp/UnrealShaderWorkingDir/0050C3604084FB23331387A23A16C938/0/WorkerOutputOnly.out" 596
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/las/SpriteSheet.uasset" 597
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_58A4ADCA4D6C23F49BF05B933DB3B5E__546B477A001D379987F4CCF465D400EE218A5C63.udd" 598
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_58A4ADCA4D6C23F49BF05B933DB3B5E__AFB9B11C9C2093BE6F489413C0824379357E3673.udd" 599
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/1/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_58A4ADCA4D6C23F49BF05B933DB3B5E__7D750F79A3C00DA80BE13B1F7C38E80482349ECF.udd" 600
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/Janek_Sprite.uasset" 601
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/JanekSprite.uasset" 602
-"../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 603
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/Janek.uasset" 604
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_131186E54052E61191C2C1B56DE5D__FF4CA290A16578798AA5AF645C0128A07EA32181.udd" 605
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_131186E54052E61191C2C1B56DE5D__E4929D30748CB152BDF8576DC7E531ACA403CA6C.udd" 606
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_131186E54052E61191C2C1B56DE5D__0681DE7E5477698DC7129C3933C6AA61C388C075.udd" 607
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 608
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/MatiB.uasset" 609
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_53653B844F4C09B5427926899951B__F80C9D55ACEF53818B1769634FABCF160BA77FD4.udd" 610
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_53653B844F4C09B5427926899951B__66506C35683FEEDE750EC497D569334F762DA097.udd" 611
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_53653B844F4C09B5427926899951B__2DFBE2322F445EEEEE89997A279922C3A1CC428D.udd" 612
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/miasto/level7.umap" 613
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/KillZoneLevel.uasset" 614
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/kolce.uasset" 615
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/kolce_Sprite.uasset" 616
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/kolce.uasset" 617
-"../../../Engine/Content/MapTemplates/Bokeh_5Sides.uasset" 618
-"../../../Engine/Content/MapTemplates/T_ScreenDirt02_w.uasset" 619
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/miasto/level2.uasset" 620
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/miasto/SpriteSheet_TileSet.uasset" 621
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/miasto/SpriteSheet.uasset" 622
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/Drzwi_Sprite.uasset" 623
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/Drzwi.uasset" 624
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/platformaRuchoma_Sprite.uasset" 625
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/platformaRuchoma.uasset" 626
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/0/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_5780720F4EECB156CEF66C8F9BDEF752__1_1_13123_0.udd" 627
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/7/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_53A09E364E607F572C30BCBA7EAF47B2__1_1_13123_0.udd" 628
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 629
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/miasto/level6.umap" 630
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/miasto/level1.uasset" 631
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/3/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_4CCAA97D425A2FEE803BC2B571A58833__1_1_13123_0.udd" 632
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/miasto/level10Boss.umap" 633
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/miasto/level5Boss.uasset" 634
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/las/levelBase.umap" 635
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/las/testMap.uasset" 636
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/las/SpriteSheet_TileSet.uasset" 637
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/las/level5Boss.umap" 638
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/KillZoneLevelBoss.uasset" 639
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/kolceBoss.uasset" 640
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/las/level1-5Boss.uasset" 641
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/3/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_39738E854AA8BC42FD15D1A2A7EC713A__1_1_13123_0.udd" 642
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/las/level4.umap" 643
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/las/level1-4.uasset" 644
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/8/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_E13921F6496728CBEAA271821C01596B__1_1_13123_0.udd" 645
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/las/level3.umap" 646
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/las/level1-3.uasset" 647
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/las/SpriteSheet_TileSet.uasset" 648
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/6/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_6E6779EB495F63857B084C9BDAFC8C6A__1_1_13123_0.udd" 649
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/las/level2.umap" 650
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/las/Level1-2.uasset" 651
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/8/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_9F8628814EFA6EFCB3A9698357E1CF99__1_1_13123_0.udd" 652
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_24B2866549DB9DC998CE27A96F7913E__E74BCD52FA4F7A2E9923A1B327F4459E406A38DE.udd" 653
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/piek?o/SpriteSheet_Sprite_1.uasset" 654
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/piek?o/SpriteSheet.uasset" 655
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/piek?o/SpriteSheet_Sprite_0.uasset" 656
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_C9DAC43043AE30730736368A7E85B5D__1CACD4951A34AD67031DC3355CB2750615C831C0.udd" 657
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_C9DAC43043AE30730736368A7E85B5D__093F12FB6FA3422DD48501C2685AB7C54D7ABD5B.udd" 658
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_C9DAC43043AE30730736368A7E85B5D__4E48688BC0938CD795CA9E8C46521C36094E10F3.udd" 659
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/PjotrekFlipbook.uasset" 660
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F19ADBB8491BCA477FA9FDB73AF7C__8BCECAF8E93124E56FED7014FA1EDB2450364402.udd" 661
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F19ADBB8491BCA477FA9FDB73AF7C__2C2B27247906DFA75DC279A9507BFA7268C499D7.udd" 662
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F19ADBB8491BCA477FA9FDB73AF7C__986C9F9943A39274FD3BE2EE157D5BF15995AB87.udd" 663
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Flipbooks/pocisk_prototyp.uasset" 664
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/las/SpriteSheet_Sprite_0.uasset" 665
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Flipbooks/pocisknaszybkoFB.uasset" 666
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/pocisknaszybko_Sprite.uasset" 667
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/pocisknaszybko.uasset" 668
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/TEST.uasset" 669
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/pocisk.uasset" 670
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/Platformalevel9.uasset" 671
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/PlatformaKolcelvl14.uasset" 672
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/PlatformaKolce_Sprite.uasset" 673
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/PlatformaKolce.uasset" 674
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/6/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_AFF14762415CF71AB27C6ABADEF5B6AD__1_1_13123_0.udd" 675
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/PlatformaKolce.uasset" 676
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/PfatformaKolce2lvl14.uasset" 677
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/platformaKolce2_Sprite.uasset" 678
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/platformaKolce2.uasset" 679
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/PfatformaKolce2.uasset" 680
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/Pfatforma.uasset" 681
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/NewBlueprint.uasset" 682
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/armatalvl11.uasset" 683
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/armata_Sprite.uasset" 684
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/armata.uasset" 685
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/armatalevel12.uasset" 686
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/armata.uasset" 687
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScrollerBP/Sprites/Extras/platformaRuchoma.uasset" 688
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScrollerBP/Sprites/Enviroment/level3.uasset" 689
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScrollerBP/Blueprints/nextLevel.uasset" 690
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset" 691
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset" 692
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScrollerBP/2DSideScrollerOverview.uasset" 693
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/las/SpriteSheet_Sprite_8.uasset" 694
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/las/SpriteSheet_Sprite_7.uasset" 695
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/las/SpriteSheet_Sprite_6.uasset" 696
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/las/SpriteSheet_Sprite_5.uasset" 697
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/las/SpriteSheet_Sprite_4.uasset" 698
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/las/SpriteSheet_Sprite_3.uasset" 699
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/las/SpriteSheet_Sprite_2.uasset" 700
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/las/SpriteSheet_Sprite_1.uasset" 701
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/las/pocisk_prototyp.uasset" 702
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/Seba_Sprite.uasset" 703
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/SebaSprite.uasset" 704
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/Seba.uasset" 705
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F18114A94151FF918118EFBB3A0D5__9B9DF8A04B856E05EF1E9AC97CB75A92E87DD66D.udd" 706
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F18114A94151FF918118EFBB3A0D5__77A03918946FB8AAA3A59C2255BC33CF2429F719.udd" 707
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F18114A94151FF918118EFBB3A0D5__8FAE14C3589284C38FDFFFC657F16F2AE970D268.udd" 708
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 709
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/las/Level1-1.uasset" 710
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/5/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_963B60274C27BB8F4DD1CBACB0719526__1_1_13123_0.udd" 711
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/pustynia/SpriteSheet_TileSet.uasset" 712
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/pustynia/SpriteSheet.uasset" 713
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/pustynia/SpriteSheet_Sprite_2.uasset" 714
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/pustynia/SpriteSheet_Sprite_1.uasset" 715
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/pustynia/SpriteSheet_Sprite_0.uasset" 716
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/miasto/SpriteSheet_TileSet.uasset" 717
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/miasto/SpriteSheet_Sprite_3.uasset" 718
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/miasto/SpriteSheet_Sprite_2.uasset" 719
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/miasto/SpriteSheet_Sprite_1.uasset" 720
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/miasto/SpriteSheet_Sprite_0.uasset" 721
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/8/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_7BC1637E4C3CEFF2F124AF829B17E1D__2498F98844CE0746BC014C3BBC2035019E8A3ACC.udd" 722
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/2/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_7BC1637E4C3CEFF2F124AF829B17E1D__06E93F6C81C51AE613C1E9249DC5DBB9170C15C0.udd" 723
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_7BC1637E4C3CEFF2F124AF829B17E1D__90E40B690073913DEBD26DD21BC31C8E7FF79E74.udd" 724
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/piek?o/level6.umap" 725
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/piek?o/level16.umap" 726
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/piek?o/level1.uasset" 727
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/piek?o/SpriteSheet_TileSet.uasset" 728
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/piek?o/level1.umap" 729
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/miasto/level9.umap" 730
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/miasto/level4.uasset" 731
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/miasto/level8.umap" 732
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/miasto/level3.uasset" 733
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/pocisknaszybkoFB.uasset" 734
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_0DCDE1F44078F13386E71EBA25A475A__FAA823E23885413F7FBBDFBBA5BC87413CF90D3E.udd" 735
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/pustynia/SpriteSheet_TileSet.uasset" 736
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/pustynia/level4.uasset" 737
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/pustynia/level3.uasset" 738
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/pustynia/level2.uasset" 739
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/pustynia/level1.uasset" 740
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/piek?o/SpriteSheet_TileSet.uasset" 741
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/piek?o/SpriteSheet_Sprite_2.uasset" 742
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/Pjotrek_Sprite.uasset" 743
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/MatiP_Sprite.uasset" 744
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/MatiPSprite.uasset" 745
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/MatiP.uasset" 746
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_689F8762416BCB37B07718AC57C18__394F660FBA9D851D185245B683D34E901955F586.udd" 747
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_689F8762416BCB37B07718AC57C18__642CDA33ECDE6384E183D8FA4A7BCE28DDD1AE16.udd" 748
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_689F8762416BCB37B07718AC57C18__1C60899375929CC2C63DB59FC7BBF15D7E5ACC48.udd" 749
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/pustynia/level11.umap" 750
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C6E40C614DB678928CB301A36DD2E__1449108E0B5061B9E0CD77F5739146BDCCC6B390.udd" 751
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C6E40C614DB678928CB301A36DD2E__3AE1BBE7453AB9F16A578F41E81FC95F0C912B76.udd" 752
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C6E40C614DB678928CB301A36DD2E__AAB3A46DC179579FE33FD6DDA2A13F3B56DDB9FD.udd" 753
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/MatiB_Sprite.uasset" 754
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/MatiBSprite.uasset" 755
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/pustynia/level14.umap" 756
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/pustynia/level13.umap" 757
-"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/pustynia/level12.umap" 758
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/4/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_D8A9B2BA4A8EAE0F7883E1B285AF1D6__92163AB3BA0672230516CEDCF7DE8074182AF262.udd" 759
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_9BB7CEBD4695C90B94022BBB1A7850A__CCF6ACF0515BC1B06DEAAE11DEBC204771427478.udd" 760
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 761
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 762
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 763
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 764
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 765
-"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_6269063A41069ED67F6FC2BAB747BA6__47ACF380A7B425DEBA7C4134279FD4B311B021C5.udd" 766
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 767
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 768
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 769
-"../../../Engine/Content/Maps/Entry.umap" 770
-"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 771
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 772
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 773
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 774
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 775
-"..\..\..\Engine\Content\Internationalization\icudt53l\windowsZones.res" 776
-"..\..\..\Engine\Content\Internationalization\icudt53l\zoneinfo64.res" 777
-"..\..\..\Engine\Content\Internationalization\icudt53l\keyTypeData.res" 778
-"..\..\..\Engine\Content\Internationalization\icudt53l\timezoneTypes.res" 779
-"..\..\..\Engine\Content\Internationalization\icudt53l\likelySubtags.res" 780
-"..\..\..\Engine\Content\Internationalization\icudt53l\supplementalData.res" 781
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 443
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 444
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 445
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 446
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 447
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 448
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 449
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 450
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 451
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 452
+"C:/Users/Spidior/AppData/Local/UnrealEngine/4.10/Saved/Config/Windows/SourceControlSettings.ini" 453
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Intermediate/Config/CoalescedSourceConfigs/SourceControlSettings.ini" 454
+"D:/Projekty/Unreal Engine/SuperPjotrekBros/Saved/Config/Windows/SourceControlSettings.ini" 455
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_CapsuleMesh.uasset" 456
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_TorusMesh.uasset" 457
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_HandColor.uasset" 458
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_PassthroughMaterial.uasset" 459
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_SampleDistortion.uasset" 460
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_TestTexture.uasset" 461
+"../../../Engine/Content/BasicShapes/Cube.uasset" 462
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 463
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 464
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 465
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 466
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 467
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 468
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 469
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 470
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 471
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 472
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 473
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 474
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 475
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Intermediate/CachedAssetRegistry.bin" 476
+"../../../Engine/Config/HTML5/HTML5Engine.ini" 477
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 478
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/GameSettings/PjotrekInstance.uasset" 479
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 480
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/MainMenu/Menu.uasset" 481
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/MainMenu/Settings.uasset" 482
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Player/PjotrekGameMode.uasset" 483
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Player/PjotrekCharakterTESTAGAIN.uasset" 484
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Flipbooks/PjotrekFlipbook.uasset" 485
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/PjotrekSprite.uasset" 486
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/Pjotrek.uasset" 487
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/GameSettings/HUD_TEST.uasset" 488
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 489
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 490
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 491
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 492
+"../../../Engine/Content/EditorMaterials/PhAT_JointLimitMaterial.uasset" 493
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 494
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 495
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 496
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 497
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 498
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 499
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 500
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 501
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 502
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 503
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 504
+"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 505
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 506
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 507
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 508
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 509
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 510
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 511
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 512
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 513
+"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 514
+"../../../Engine/Content/Tutorial/SubEditors/DestructibleMeshEditorTutorial.uasset" 515
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Tutorial_DM.uasset" 516
+"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 517
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 518
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 519
+"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 520
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 521
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 522
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 523
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 524
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkThrough.uasset" 525
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset" 526
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Idle.uasset" 527
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset" 528
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Walk_Fwd.uasset" 529
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset" 530
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset" 531
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_PhysicsAsset.uasset" 532
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 533
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset" 534
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset" 535
+"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 536
+"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 537
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 538
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 539
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 540
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 541
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 542
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 543
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 544
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 545
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 546
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 547
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 548
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 549
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/pustynia/level15Boss.umap" 550
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/KillZoneLevelBoss.uasset" 551
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/przycisk.uasset" 552
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/guzik_Sprite.uasset" 553
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/guzik.uasset" 554
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/platforma_Sprite.uasset" 555
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/platforma.uasset" 556
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/platformaRuchoma_Sprite.uasset" 557
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/platformaRuchoma.uasset" 558
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/zapadnia_sprite.uasset" 559
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/zapadnia.uasset" 560
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/TileMap/pustynia/Level5Boss.uasset" 561
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/TileMap/pustynia/SpriteSheet_TileSet.uasset" 562
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/pustynia/SpriteSheet.uasset" 563
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 564
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/pustynia/level14.umap" 565
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/armata.uasset" 566
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/pocisk.uasset" 567
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/PogChamp_Flipbook.uasset" 568
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/PogChamp_Sprite.uasset" 569
+"../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 570
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/PogChamp.uasset" 571
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/armata_Sprite.uasset" 572
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/armata.uasset" 573
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/kolceBoss.uasset" 574
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/kolce_Sprite.uasset" 575
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/kolce.uasset" 576
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/PfatformaKolce2lvl14.uasset" 577
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/platformaKolce2_Sprite.uasset" 578
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/platformaKolce2.uasset" 579
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/PlatformaKolcelvl14.uasset" 580
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/PlatformaKolce_Sprite.uasset" 581
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/PlatformaKolce.uasset" 582
+"../../../Engine/Content/MapTemplates/Bokeh_5Sides.uasset" 583
+"../../../Engine/Content/MapTemplates/T_ScreenDirt02_w.uasset" 584
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/pustynia/level4.uasset" 585
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/TileMap/pustynia/level4.uasset" 586
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/Drzwi_Sprite.uasset" 587
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/Drzwi.uasset" 588
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/6/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_AFF14762415CF71AB27C6ABADEF5B6AD__1_1_13123_0.udd" 589
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/8/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_7B649C4F4A585C893F66BDBC5C43E38E__1_0_13123_0.udd" 590
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/0/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_5780720F4EECB156CEF66C8F9BDEF752__1_1_13123_0.udd" 591
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/0/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_078C656C467200909A3F208305537CBE__1_1_13123_0.udd" 592
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/pustynia/level13.umap" 593
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/PfatformaKolce2.uasset" 594
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/pustynia/level3.uasset" 595
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/TileMap/pustynia/level3.uasset" 596
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/pustynia/level12.umap" 597
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/armatalevel12.uasset" 598
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/KillZoneLevel.uasset" 599
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/kolce.uasset" 600
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/pustynia/level2.uasset" 601
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/TileMap/pustynia/level2.uasset" 602
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/pustynia/level11.umap" 603
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/pustynia/level1.uasset" 604
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/TileMap/pustynia/level1.uasset" 605
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/piek?o/level6.umap" 606
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/piek?o/level16.umap" 607
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/TileMap/piek?o/level1.uasset" 608
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/TileMap/piek?o/SpriteSheet_TileSet.uasset" 609
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/piek?o/SpriteSheet.uasset" 610
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/5/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_0E8A8A2A4B8D61C2BB2133B8660C5E23__1_1_13123_0.udd" 611
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/piek?o/level20Boss.umap" 612
+"../../../Engine/Content/EditorResources/BadBlueprintSprite.uasset" 613
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/JanekSprite.uasset" 614
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/Janek.uasset" 615
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/TileMap/piek?o/level5Boss.uasset" 616
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/0/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_266EB7354570BC6FBBFA5EAF51ED4FA3__1_1_13123_0.udd" 617
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/piek?o/level18.umap" 618
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/piek?o/level17.umap" 619
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/AI.uasset" 620
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/Kappa_Sprite.uasset" 621
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/Kappa.uasset" 622
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/TileMap/piek?o/level2.uasset" 623
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/2/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_828DC603423BA70CC88409929D289D49__1_1_13123_0.udd" 624
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/piek?o/level1.umap" 625
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/miasto/level9.umap" 626
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/Platformalevel9.uasset" 627
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/miasto/level4.uasset" 628
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/TileMap/miasto/level4.uasset" 629
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/TileMap/miasto/SpriteSheet_TileSet.uasset" 630
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/miasto/SpriteSheet.uasset" 631
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/3/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_8AAFFB0146FAEB268338DF88A0EC0E96__1_1_13123_0.udd" 632
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/miasto/level8.umap" 633
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/PlatformaKolce.uasset" 634
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/miasto/level3.uasset" 635
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/TileMap/miasto/level3.uasset" 636
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/miasto/level7.umap" 637
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/miasto/level2.uasset" 638
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/TileMap/miasto/level2.uasset" 639
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/7/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_53A09E364E607F572C30BCBA7EAF47B2__1_1_13123_0.udd" 640
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/miasto/level6.umap" 641
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/miasto/level1.uasset" 642
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/TileMap/miasto/level1.uasset" 643
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/3/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_4CCAA97D425A2FEE803BC2B571A58833__1_1_13123_0.udd" 644
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/miasto/level10Boss.umap" 645
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/miasto/level5Boss.uasset" 646
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/TileMap/miasto/level5Boss.uasset" 647
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/MainMenu/Options.umap" 648
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/las/levelBase.umap" 649
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/las/testMap.uasset" 650
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/TileMap/las/testMap.uasset" 651
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/TileMap/las/SpriteSheet_TileSet.uasset" 652
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/las/SpriteSheet.uasset" 653
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/las/level5Boss.umap" 654
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/Boss5lvl.uasset" 655
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/MatiBSprite.uasset" 656
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/MatiB.uasset" 657
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/las/level1-5Boss.uasset" 658
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/TileMap/las/level1-5Boss.uasset" 659
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/3/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_39738E854AA8BC42FD15D1A2A7EC713A__1_1_13123_0.udd" 660
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/las/level4.umap" 661
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/las/level1-4.uasset" 662
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/TileMap/las/level1-4.uasset" 663
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/8/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_E13921F6496728CBEAA271821C01596B__1_1_13123_0.udd" 664
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/las/level3.umap" 665
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/las/level1-3.uasset" 666
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/TileMap/las/level1-3.uasset" 667
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/las/SpriteSheet_TileSet.uasset" 668
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/6/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_6E6779EB495F63857B084C9BDAFC8C6A__1_1_13123_0.udd" 669
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/las/level2.umap" 670
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/las/Level1-2.uasset" 671
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/TileMap/las/Level1-2.uasset" 672
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/8/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_9F8628814EFA6EFCB3A9698357E1CF99__1_1_13123_0.udd" 673
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/las/level1.umap" 674
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Backgrounds/Las/LasBackgroundTEST_Sprite.uasset" 675
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Backgrounds/Las/LasBackgroundTEST.uasset" 676
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/TileMap/las/Level1-1.uasset" 677
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/5/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_963B60274C27BB8F4DD1CBACB0719526__1_1_13123_0.udd" 678
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/Cutscene/Cutscene.umap" 679
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Backgrounds/Cutscene/DomPjotrka_Sprite.uasset" 680
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Backgrounds/Cutscene/DomPjotrka.uasset" 681
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Backgrounds/Cutscene/Drzwi_Sprite.uasset" 682
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Backgrounds/Cutscene/Drzwi.uasset" 683
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sounds/KillBill.uasset" 684
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/Karol_Sprite.uasset" 685
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/Karol.uasset" 686
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/MatiPSprite.uasset" 687
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/MatiP.uasset" 688
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/SebaSprite.uasset" 689
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/Seba.uasset" 690
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Dymki/Chyba_bede_musial_ich_uratowac_Sprite.uasset" 691
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Dymki/Chyba_bede_musial_ich_uratowac.uasset" 692
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Dymki/Ja_ju?_musze_i??_Sprite.uasset" 693
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Dymki/Ja_ju?_musze_i??.uasset" 694
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Dymki/Ju?_poszed?_Sprite.uasset" 695
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Dymki/Ju?_poszed?.uasset" 696
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Dymki/Narazie__do_us?yszenia_na_Skypie_Sprite.uasset" 697
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Dymki/Narazie__do_us?yszenia_na_Skypie.uasset" 698
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Dymki/Narazie_Sprite.uasset" 699
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Dymki/Narazie.uasset" 700
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Dymki/No_siema_Sprite.uasset" 701
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Dymki/No_siema.uasset" 702
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Dymki/O_nie__Janek_wszystkich_porwa?_Sprite.uasset" 703
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Dymki/O_nie__Janek_wszystkich_porwa?.uasset" 704
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Dymki/Pa_geju_Sprite.uasset" 705
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Dymki/Pa_geju.uasset" 706
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Dymki/Siema_ziomeczku_Sprite.uasset" 707
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Dymki/Siema_ziomeczku.uasset" 708
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/CzerwonyFiltr_Sprite.uasset" 709
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/CzerwonyFiltr.uasset" 710
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/DomPjotrkaTlo_Sprite.uasset" 711
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/DomPjotrkaTlo.uasset" 712
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/9/AUDIO_0002_0000_OGG_0001_0D6DD9FB4B4BC07DC1A3FC977865BBCB.udd" 713
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 714
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_A257E29240AC189C2A593CACD3F5ADB__7744CFDA33CFD6C6AA811C7D7DA324FC4365DA6F.udd" 715
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_24B2866549DB9DC998CE27A96F7913E__E74BCD52FA4F7A2E9923A1B327F4459E406A38DE.udd" 716
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_9BB7CEBD4695C90B94022BBB1A7850A__CCF6ACF0515BC1B06DEAAE11DEBC204771427478.udd" 717
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_11E3EA6E4E98437F35EF6F97A1B594B__9BFF95D3F6B61F1849FF057A5CED585FCEB6C1AA.udd" 718
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/Pjotrek_Sprite.uasset" 719
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/PjotrekFlipbook.uasset" 720
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F19ADBB8491BCA477FA9FDB73AF7C__8BCECAF8E93124E56FED7014FA1EDB2450364402.udd" 721
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F19ADBB8491BCA477FA9FDB73AF7C__986C9F9943A39274FD3BE2EE157D5BF15995AB87.udd" 722
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F19ADBB8491BCA477FA9FDB73AF7C__2C2B27247906DFA75DC279A9507BFA7268C499D7.udd" 723
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/Janek_Sprite.uasset" 724
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_131186E54052E61191C2C1B56DE5D__FF4CA290A16578798AA5AF645C0128A07EA32181.udd" 725
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_131186E54052E61191C2C1B56DE5D__0681DE7E5477698DC7129C3933C6AA61C388C075.udd" 726
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_131186E54052E61191C2C1B56DE5D__E4929D30748CB152BDF8576DC7E531ACA403CA6C.udd" 727
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Player/PjotrekCharakterTEST.uasset" 728
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Player/PjotrekCharakter.uasset" 729
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Movies/UE4_Logo.uasset" 730
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Movies/DreamGamesIntro.uasset" 731
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/MainMenu/Pause.uasset" 732
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/GameSettings/CutsceneGameMode.uasset" 733
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Flipbooks/pocisk_prototyp.uasset" 734
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/las/SpriteSheet_Sprite_0.uasset" 735
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Flipbooks/pocisknaszybkoFB.uasset" 736
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/pocisknaszybko_Sprite.uasset" 737
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/pocisknaszybko.uasset" 738
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Flipbooks/KappaFlipbook.uasset" 739
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Flipbooks/JanekSprite_Flipbook.uasset" 740
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/TEST.uasset" 741
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/Pfatforma.uasset" 742
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/NewBlueprint.uasset" 743
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/KappaSpawner.uasset" 744
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Blueprints/armatalvl11.uasset" 745
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Backgrounds/Pustynia/PustyniaBackground.uasset" 746
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_71BEB07C4F822E3F20D6E8A7C564A__EA4356F08B51FCB52201DEF45CD3FAE7E7FDF250.udd" 747
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/RunFrames/RunCycle_12.uasset" 748
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Textures/2DCharacter_RunAnimAtlas.uasset" 749
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/RunFrames/RunCycle_11.uasset" 750
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/RunFrames/RunCycle_10.uasset" 751
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/RunFrames/RunCycle_1.uasset" 752
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle8.uasset" 753
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Textures/2DCharacter_IdleAnimAtlas.uasset" 754
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle7.uasset" 755
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle6.uasset" 756
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle5.uasset" 757
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle4.uasset" 758
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle3.uasset" 759
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle2.uasset" 760
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle1.uasset" 761
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/RunningAnimation.uasset" 762
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Sprites/RunFrames/RunCycle_13.uasset" 763
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Sprites/RunFrames/RunCycle_14.uasset" 764
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Sprites/RunFrames/RunCycle_15.uasset" 765
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Sprites/RunFrames/RunCycle_16.uasset" 766
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Sprites/RunFrames/RunCycle_2.uasset" 767
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Sprites/RunFrames/RunCycle_3.uasset" 768
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Sprites/RunFrames/RunCycle_4.uasset" 769
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Sprites/RunFrames/RunCycle_5.uasset" 770
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Sprites/RunFrames/RunCycle_6.uasset" 771
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Sprites/RunFrames/RunCycle_7.uasset" 772
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Sprites/RunFrames/RunCycle_8.uasset" 773
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Sprites/RunFrames/RunCycle_9.uasset" 774
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/PrototypingSprite.uasset" 775
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Materials/PrototypingSpriteMaterial.uasset" 776
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Textures/2DBackgroundTile.uasset" 777
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/5/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM5_3__BC5N_DEV_SL_NODBUF5676B9A9__184B9EC4CADC168B1DBBF977C2B43BF112FCA14A.udd" 778
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/5/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM4_3__BC5N_DEV_SL_NODBUF5676B9A9__5600AE2A56CA63B01A25A943D9404A38A65A274B.udd" 779
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/Ledge.uasset" 780
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Textures/2DBackgroundBlockAtlas.uasset" 781
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/IdleAnimation.uasset" 782
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScroller/Sprites/Background_Sprite.uasset" 783
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2dSideScroller/Textures/2DBackground.uasset" 784
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 785
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 786
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 787
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/pocisknaszybkoFB.uasset" 788
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_E46ECAC548DA54CC85A50BA815D11E1__ACB6F42861899A8125A331AB193ED8E9ACE72D3D.udd" 789
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_0DCDE1F44078F13386E71EBA25A475A__FAA823E23885413F7FBBDFBBA5BC87413CF90D3E.udd" 790
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/4/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_08B5B492473479836D5C85BC5A5A5CC__70249FAC91A88A3EBC82BDFF9E5CE157A10929D6.udd" 791
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/4/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_D8A9B2BA4A8EAE0F7883E1B285AF1D6__92163AB3BA0672230516CEDCF7DE8074182AF262.udd" 792
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_6269063A41069ED67F6FC2BAB747BA6__47ACF380A7B425DEBA7C4134279FD4B311B021C5.udd" 793
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/4/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_C6E40C614DB678928CB301A36DD2E60__4AC0F54E5952DD08334C368BDC482B4F66B73DAB.udd" 794
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/8/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_C6E40C614DB678928CB301A36DD2E60__08E14F793F4E8D9D28DFFA92E5AA4F83142A98E6.udd" 795
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_C6E40C614DB678928CB301A36DD2E60__8D55C0AFA5ACD2E42BD679A280EA4EC64A96B4B7.udd" 796
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/8/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_5B2FFDDE40713CCC1543F7B050383D8__41041D11DB2DDB5752698D37DF518B8D8345E49C.udd" 797
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 798
+"../../../Engine/Content/Maps/Entry.umap" 799
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Maps/MainMenu/MainMenu.umap" 800
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_2EB1BB7848EEECFC82A637B1695565D__51F392F2CEA6DF823A0EE59B3676537558461C2D.udd" 801
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/8/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_B3BF14CA427DFF07B741958A0CDE632__B4938483237F6F5723C160879ED475B770B885D4.udd" 802
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/0/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_E1BC95BF43FBA14ED00CFEB5A51E1B3__C10C6D95BBAF946F3B9B8AF53A19BE6CE1B69DD3.udd" 803
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/piek?o/level1.uasset" 804
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/TileMap/las/Level1-1.uasset" 805
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/pustynia/SpriteSheet_TileSet.uasset" 806
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/pustynia/SpriteSheet_Sprite_2.uasset" 807
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/pustynia/SpriteSheet_Sprite_1.uasset" 808
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/pustynia/SpriteSheet_Sprite_0.uasset" 809
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_16742A9E436CB9543994B59A055E156__04A0C3C3B3948DDDFFA4D1E3B6CB0124E487F5F0.udd" 810
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/1/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_16742A9E436CB9543994B59A055E156__26688ACC75894A838D876CD9827AD34DE8A502F6.udd" 811
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_16742A9E436CB9543994B59A055E156__2FCAF8400495DDA8C7A38C5A5E636627030A81BC.udd" 812
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/miasto/SpriteSheet_Sprite_0.uasset" 813
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/8/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_7BC1637E4C3CEFF2F124AF829B17E1D__2498F98844CE0746BC014C3BBC2035019E8A3ACC.udd" 814
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_7BC1637E4C3CEFF2F124AF829B17E1D__90E40B690073913DEBD26DD21BC31C8E7FF79E74.udd" 815
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/2/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_7BC1637E4C3CEFF2F124AF829B17E1D__06E93F6C81C51AE613C1E9249DC5DBB9170C15C0.udd" 816
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/las/pocisk_prototyp.uasset" 817
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/8/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_6294B63E4090D90FDA73998CFF4EC7D__8A94F9B8C2C3FD4CA07EA3B8B627714B70E0C681.udd" 818
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_9FF01F4F48C21C6376640FBCD481F48__55AE446AED7EE3D88AE3D992C1E403FAB6E7EACA.udd" 819
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/4/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_E7A99B5A4FECFD208A509498A4F0E3C__EB8569CF624580F0CF585D77D8DC5450427397B3.udd" 820
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/1/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_9F9DEDF44764C5894799CCA522EA381__E2A67453921852D79BB064520AB28D429BEF1C07.udd" 821
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_689F8762416BCB37B07718AC57C18__394F660FBA9D851D185245B683D34E901955F586.udd" 822
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_689F8762416BCB37B07718AC57C18__1C60899375929CC2C63DB59FC7BBF15D7E5ACC48.udd" 823
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_689F8762416BCB37B07718AC57C18__642CDA33ECDE6384E183D8FA4A7BCE28DDD1AE16.udd" 824
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_53653B844F4C09B5427926899951B__F80C9D55ACEF53818B1769634FABCF160BA77FD4.udd" 825
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_53653B844F4C09B5427926899951B__66506C35683FEEDE750EC497D569334F762DA097.udd" 826
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_53653B844F4C09B5427926899951B__2DFBE2322F445EEEEE89997A279922C3A1CC428D.udd" 827
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_13BBA1FF42392F5628E6A28238D5345__9ED4118AEE3AFED0F2FF89C2F6D6808A1C19B0B6.udd" 828
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 829
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 830
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 831
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Extras/KappaFlipbook.uasset" 832
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/piek?o/SpriteSheet_TileSet.uasset" 833
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/piek?o/SpriteSheet_Sprite_2.uasset" 834
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/piek?o/SpriteSheet_Sprite_1.uasset" 835
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/piek?o/SpriteSheet_Sprite_0.uasset" 836
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_4CB0022440FF6F4DA362DE856ACCFB7__D9DECD6913D20BD9516CC44E35757E91A0E87A27.udd" 837
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/1/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_4CB0022440FF6F4DA362DE856ACCFB7__F7C08904705F4CFD95C7C785ECA1DE3C737EE3A8.udd" 838
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_4CB0022440FF6F4DA362DE856ACCFB7__3AC036944CAE566E97B64F397558B13F494E0E06.udd" 839
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/las/SpriteSheet_Sprite_3.uasset" 840
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/las/SpriteSheet_Sprite_2.uasset" 841
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/las/SpriteSheet_Sprite_1.uasset" 842
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_58A4ADCA4D6C23F49BF05B933DB3B5E__546B477A001D379987F4CCF465D400EE218A5C63.udd" 843
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_58A4ADCA4D6C23F49BF05B933DB3B5E__AFB9B11C9C2093BE6F489413C0824379357E3673.udd" 844
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/1/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_58A4ADCA4D6C23F49BF05B933DB3B5E__7D750F79A3C00DA80BE13B1F7C38E80482349ECF.udd" 845
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_01E14DFB4EA76D3F4766B488D8A3F87__BDAFC3FA596C5FC1B22931ED2EDB06FEAADFF85F.udd" 846
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/Seba_Sprite.uasset" 847
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F18114A94151FF918118EFBB3A0D5__9B9DF8A04B856E05EF1E9AC97CB75A92E87DD66D.udd" 848
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F18114A94151FF918118EFBB3A0D5__8FAE14C3589284C38FDFFFC657F16F2AE970D268.udd" 849
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F18114A94151FF918118EFBB3A0D5__77A03918946FB8AAA3A59C2255BC33CF2429F719.udd" 850
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Backgrounds/Miasto/MiastoBackground.uasset" 851
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C9716020445D6A967A75D6B3623CC__E6847F45F93235621C4C2C60504A360EA0B71B2A.udd" 852
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/las/SpriteSheet_Sprite_5.uasset" 853
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/las/SpriteSheet_Sprite_4.uasset" 854
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_909B22E44F7042BBEEBD1EAA876CC4C__C4F43832A92B1D604088D1247D1D622351D2AE6D.udd" 855
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_981CC49F42C0AF50CC19C8AB2559B77__93D371F171D4D50B5869A226A8F2206AB4D5C2D5.udd" 856
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_4C8F37DF4E6C251136DD409114FBAB1__A6B072F5DCD8F7E5B330D26129F0A1C79AE005E9.udd" 857
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/2/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_8ADA39D4430085C5E0E11C8EEE7341E__8C4D3EBA0E12551EAAB4670DE49455B213F64E49.udd" 858
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_8ADA39D4430085C5E0E11C8EEE7341E__4CC237F9BA9C9DD85D0E7CA5249137FEC447A077.udd" 859
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/9/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_8ADA39D4430085C5E0E11C8EEE7341E__D42C421EAE5C48062CD48C0923FE7BB8A603C0A8.udd" 860
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/miasto/SpriteSheet_TileSet.uasset" 861
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/miasto/SpriteSheet_Sprite_3.uasset" 862
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/miasto/SpriteSheet_Sprite_2.uasset" 863
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/miasto/SpriteSheet_Sprite_1.uasset" 864
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/las/SpriteSheet_Sprite_8.uasset" 865
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/las/SpriteSheet_Sprite_7.uasset" 866
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Enviroment/las/SpriteSheet_Sprite_6.uasset" 867
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/9/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_D99DBD0C43E468EB06B79DA89111B63__73CBCC16A78C098586E21F8908C34ED97BA3E343.udd" 868
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/MatiP_Sprite.uasset" 869
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Sprites/Charakters/MatiB_Sprite.uasset" 870
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/2/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_C990E666495360829C75C7B7BAF5CDC__00FD0D9170CD0DA8C24ED8C1405D48F9EA1534DA.udd" 871
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScrollerBP/Blueprints/nextLevel.uasset" 872
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset" 873
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset" 874
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScrollerBP/2DSideScrollerOverview.uasset" 875
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 876
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 877
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/Backgrounds/Las/LasBackground.uasset" 878
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C990E666495360829C75C7B7BAF5C__D976D6C26AAFC937C5A1D990381AA780560F8420.udd" 879
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D1E814BA40821C40AD8995ADAEF38__F6CEEFF353BA9D3DC00A0FD4AFCC7F996E7AA804.udd" 880
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D1E814BA40821C40AD8995ADAEF38__C83796E3C45183B5819DA3E4E26EA607CFBA43A0.udd" 881
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D1E814BA40821C40AD8995ADAEF38__980B21D1565B895812A2E534F397AD7CA25DEEFC.udd" 882
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 883
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScrollerBP/Sprites/Enviroment/level3.uasset" 884
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 885
+"../../../../../../Projekty/Unreal Engine/SuperPjotrekBros/Content/2DSideScrollerBP/Sprites/Extras/platformaRuchoma.uasset" 886
+"C:/Users/Spidior/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/8/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_5F5ED2824AF1F07786862D88ABFD5E5__299D4EA017DC45EBEB602AA500DA5D91853C6DD2.udd" 887
+"..\..\..\Engine\Content\Internationalization\icudt53l\windowsZones.res" 888
+"..\..\..\Engine\Content\Internationalization\icudt53l\zoneinfo64.res" 889
+"..\..\..\Engine\Content\Internationalization\icudt53l\keyTypeData.res" 890
+"..\..\..\Engine\Content\Internationalization\icudt53l\timezoneTypes.res" 891
+"..\..\..\Engine\Content\Internationalization\icudt53l\likelySubtags.res" 892
+"..\..\..\Engine\Content\Internationalization\icudt53l\supplementalData.res" 893
